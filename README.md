@@ -1,7 +1,5 @@
 # Blockchain
 
-
-printf("Hello World");
 hi humans,
 
 i am Rifat. i like to sleep and sleep.
